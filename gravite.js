@@ -1,4 +1,7 @@
-
+//---------------------------------
+// Crée le 22/02/2019
+// par Jean-Michel Hinicker
+// Dernière Date de modification: 28/02/2019
 
 // -------------------------------
 // CLASSE VECTEUR
